@@ -19,6 +19,7 @@ salam
     }*/
     Halfadder halfadder = new Halfadder() ;
     out.print(halfadder.sum(10,11));
+    out.print("</br>laptop");
 
 %>
 </body>
