@@ -22,7 +22,30 @@ salam
     out.print(halfadder.sum(10,11));
     /* alter session set "_ORACLE_SCRIPT"=true;*/
     out.print("</br>" + halfadder.sum(10,11));
+    out.print("</br>" + "hi");
 
 %>
+<form action="one.jsp">
+  <p>
+      <label>
+          <input type="text" name="first-name">
+      </label>
+      <br>
+      <label>
+          <input type="text" name="last-name">
+      </label>
+      <br>
+      <label>
+          <input type="text" name="nationalID">
+      </label>
+      <br>
+      <label>
+          <input type="text" name="biorthDate">
+      </label>
+      <br>
+      <input type="submit" value="send Data">
+
+  </p>
+</form>
 </body>
 </html>
