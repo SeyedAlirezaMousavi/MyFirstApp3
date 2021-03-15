@@ -7,10 +7,11 @@ public class PersonDA {
     private Connection connection ;
     private PreparedStatement preparedStatement ;
 
-    public PersonDA() throws Exception{
+    public PersonDA() throws Exception {
         Class.forName("oracle.jdbc.driver.OracleDriver") ;
         connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl",
                 "A_MOUSAVI","mou.0101852108007") ;
+
 
     }
     public void insert(PersonTO personTO) throws  Exception {

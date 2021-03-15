@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>test</title>
+    <title>index</title>
 </head>
 <body>
 salam
@@ -40,7 +40,7 @@ salam
       </label>
       <br>
       <label>
-          <input type="text" name="biorthDate">
+          <input type="text" name="birthDate">
       </label>
       <br>
       <input type="submit" value="send Data">
