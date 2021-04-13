@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OracleJdbcDriver">
+    <CLASSES>
+      <root url="file://E:/OracleJdbcDriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/OracleJdbcDriver" recursive="false" />
+  </library>
+</component>
