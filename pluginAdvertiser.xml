@@ -267,6 +267,11 @@
                       <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="SparkSubmitConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Spark Submit" pluginName="Big Data Tools" pluginId="com.intellij.bigdatatools" />
+                    </value>
+                  </entry>
                   <entry key="Specs2RunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
