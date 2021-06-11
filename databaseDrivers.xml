@@ -4,7 +4,7 @@
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
     </driver>
     <driver id="oracle.19">
-      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+      <artifact id="Oracle" name="Oracle" channel="fixed" rolling="false" use="true" version="21.1.0.0" />
     </driver>
   </component>
 </application>
